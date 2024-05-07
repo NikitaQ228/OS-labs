@@ -1,0 +1,3 @@
+C:\Users\Никита\Desktop\ОС\lab6\lab6_client\lab6_client\x64\Debug\lab6_client.vcxproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\ОС\lab6\lab6_client\lab6_client\x64\Debug\lab6client.MyForm.resources
+C:\Users\Никита\Desktop\ОС\lab6\lab6_client\lab6_client\x64\Debug\lab6_client.vcxproj.GenerateResource.cache

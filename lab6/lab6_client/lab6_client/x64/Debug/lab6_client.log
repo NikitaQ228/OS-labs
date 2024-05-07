@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Никита\Desktop\ОС\lab6\lab6_client\lab6_client\MyForm.h(179,15): warning C4101: buffer: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab6_client.vcxproj -> C:\Users\Никита\Desktop\ОС\lab6\lab6_client\x64\Debug\lab6_client.exe
